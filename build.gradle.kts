@@ -1,6 +1,7 @@
 plugins {
     id("org.springframework.boot") version "3.0.0-M3"
     id("io.spring.dependency-management") version "1.0.11.RELEASE"
+    id("io.gatling.gradle") version "3.8.1"
     java
 }
 
